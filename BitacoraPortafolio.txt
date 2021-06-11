@@ -1,0 +1,3 @@
+las img en portafolio tiene 800*600 px
+en el detalle del proyecto las img tiene 800*463 px
+formato .jpg all img
